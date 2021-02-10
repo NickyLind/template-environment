@@ -6,15 +6,16 @@
 
 ## Technologies Used
 
-* _HTML_
+* _HTML5_
 * _Javascript_
-* _CSS_
-* _Bootsrap_
-* _Jquery_
+* _CSS3_
+* _Bootsrap 4.6.0_
+* _Jquery 3.5.1_
 * _Visual Studio Code_
-* _webpack_
-* _jest_
-
+_Node Package Manager 6.14.9_
+* _webpack 4.39.3_
+* _jest 24.9.0_
+* _eslint 6.3.0_
 ## Description
 
 _{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
